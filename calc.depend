@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1547141049 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\main.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"tokenizer.h"
+	"stringFilter.h"
+	"ioFilestrm.h"
+
+1546972423 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\tokenizer.h
+
+1546972372 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\tokenizer.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"tokenizer.h"
+
+1546970368 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\stringfilter.h
+	"txtParser.h"
+
+1546970782 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\stringfilter.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"stringFilter.h"
+	"postfixExpression.h"
+	"operation.h"
+	"trigFunction.h"
+	"decimalConverter.h"
+	"tokenizer.h"
+
+1546972203 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\txtparser.h
+	"tokenizer.h"
+
+1546881150 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\txtparser.cpp
+	"txtParser.h"
+
+1546972339 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\txtparser.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"txtParser.h"
+
+1546970547 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\postfixexpression.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"postfixExpression.h"
+
+1546970192 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\postfixexpression.h
+	"tokenizer.h"
+
+1546969978 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\operation.h
+	"tokenizer.h"
+
+1546970541 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\operation.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"operation.h"
+
+1546885222 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\trigfunction.h
+	"stringFilter.h"
+
+1546885667 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\trigfunction.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"trigFunction.h"
+
+1546971052 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\decimalconverter.h
+	"stringFilter.h"
+
+1547141049 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\decimalconverter.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"decimalConverter.h"
+
+1547141598 c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\iofilestrm.h
+
+1547141598 source:c:\users\kalie\desktop\group_project\c++ project group\calculator-final\c++ calc project\calc\iofilestrm.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cmath>
+	<stack>
+	<algorithm>
+	"ioFilestrm.h"
+	"stringFilter.h"
+
