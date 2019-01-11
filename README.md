@@ -1,0 +1,2 @@
+# Advanced-Scientific-Calculator
+The calculator includes the basic operators as well as some advanced ones as per the given requirement. The calculator takes the expression input mode from a file and displays in another output file.  There are three input modes - a simple arithmetic mode in which numbers (both integers and floats) and operators like (+, -, *, /, ^, sin(), cos()) are entered in a string and appear in one block of the file. 
