@@ -1,2 +1,14 @@
 # Advanced-Scientific-Calculator
-The calculator includes the basic operators as well as some advanced ones as per the given requirement. The calculator takes the expression input mode from a file and displays in another output file.  There are three input modes - a simple arithmetic mode in which numbers (both integers and floats) and operators like (+, -, *, /, ^, sin(), cos()) are entered in a string and appear in one block of the file. 
+This is the readme file for console based calculator using C++ which is Developed by Natanel Issak students of Software Engeneering, Nankai University, Batch 2018  
+It contains:
+- Project sourcecode. 
+- Executable program (bin/Advanced-Scientific-Calculator .exe). 
+- The Doumentation in PDF format. 
+- This readme file.
+
+For this program you will need Windows XP/Vista/7/8/10 as operating system. It is recommended to have at least 128MB RAM. 
+
+You can run the program by opening the executable file from bin/Advanced-Scientific-Calculator.exe.
+
+Developer Natanel Issak
+
