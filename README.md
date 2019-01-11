@@ -3,7 +3,6 @@ This is the readme file for console based calculator using C++ which is Develope
 It contains:
 - Project sourcecode. 
 - Executable program (bin/Advanced-Scientific-Calculator.exe). 
-- The Doumentation in PDF format. 
 - This readme file.
 
 For this program you will need Windows XP/Vista/7/8/10 as operating system. It is recommended to have at least 128MB RAM. 
