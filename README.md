@@ -9,5 +9,5 @@ For this program you will need Windows XP/Vista/7/8/10 as operating system. It i
 
 You can run the program by opening the executable file from bin/Advanced-Scientific-Calculator.exe.
 
-Developer Natanel Issak
+
 
